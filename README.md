@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 ### 📬 Get in Touch!
 💼 **LinkedIn:** [Maria Eduarda Franklin](https://www.linkedin.com/in/maria-eduarda-franklin-barbosa/)  
-📧 **Email:** [mefranklinbarbosa@gmail.com]  
+📧 **Email:** mefranklinbarbosa@gmail.com
 
 ---
 
